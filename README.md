@@ -61,7 +61,7 @@ The system emphasizes:
    ```
 2. Open MATLAB and run:
    ```matlab
-   PlateCleaningRobot.m
+   PlateCleaningRobot.mlx
    ```
 3. Watch the robot simulate cleaning multiple plates with smooth transitions.
 
